@@ -9,7 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "fomantic-ui": "^2.9.0-beta.294",
+    "fomantic-ui-css": "^2.8.8",
+    "qs": "^6.10.5",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.4.1",
+    "vue-fomantic-ui": "^0.13.0",
+    "vue-router": "^4.0.16",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
